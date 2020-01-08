@@ -1,0 +1,8 @@
+example.settings
+test.env
+/.pytest_cache/
+.coverage
+/htmlcov/
+praw.ini
+*.pyc
+p_rundev.sh
